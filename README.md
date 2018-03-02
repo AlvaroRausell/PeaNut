@@ -2,7 +2,7 @@
 ![Image from: Wikipedia](https://i.imgur.com/vGpYPtu.jpg)
 #### Hackathon entry for Local Hack Day IV (King's College London)
 Developed using *Java* and *JavaScript* with 
-* [Danilo Del Busso](https://github.com/ddelbusso)
+* [Danilo Del Busso](https://github.com/danilo-delbusso)
 * [Tomas Andriuškevičius](https://devpost.com/Tomasand)
 
 ## What it does
